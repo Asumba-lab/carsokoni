@@ -1,0 +1,54 @@
+[
+  {
+    "id": "car_001",
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2023,
+    "price": 2500000,
+    "category": "Sedan",
+    "thumbnail": "https://images.unsplash.com/photo-1511918984145-48de785d4c4e?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1511918984145-48de785d4c4e?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1503736334956-4c8f8e92946d?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1461632830798-3adb3034e4c8?auto=format&fit=crop&w=600&q=80"
+    ],
+    "features": ["Air Conditioning", "Power Steering", "ABS", "Airbags"],
+    "specifications": {
+      "engine": "2.5L 4-Cylinder",
+      "transmission": "CVT",
+      "fuelType": "Petrol",
+      "mileage": "15 km/l",
+      "seatingCapacity": 5,
+      "color": "Silver"
+    },
+    "description": "A reliable and fuel-efficient sedan, perfect for city and highway driving.",
+    "inStock": true,
+    "rating": 4.5
+  },
+  {
+    "id": "car_002",
+    "brand": "Nissan",
+    "model": "X-Trail",
+    "year": 2022,
+    "price": 3200000,
+    "category": "SUV",
+    "thumbnail": "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=400&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1462392246754-28dfa2df8e6b?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=600&q=80"
+    ],
+    "features": ["4WD", "Navigation", "Bluetooth", "Backup Camera"],
+    "specifications": {
+      "engine": "2.0L 4-Cylinder",
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "mileage": "12 km/l",
+      "seatingCapacity": 7,
+      "color": "White"
+    },
+    "description": "A versatile SUV with advanced safety features and spacious interior.",
+    "inStock": true,
+    "rating": 4.3
+  }
+] 
