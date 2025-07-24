@@ -1,0 +1,2867 @@
+[
+  {
+    "id": "car_001",
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2020,
+    "price": 9192459,
+    "category": "Sedan",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Toyota,Camry,Sedan,1",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Toyota,Camry,Sedan,1,1",
+      "https://source.unsplash.com/featured/600x400/?car,Toyota,Camry,Sedan,1,2",
+      "https://source.unsplash.com/featured/600x400/?car,Toyota,Camry,Sedan,1,3"
+    ],
+    "features": [
+      "Fog Lights",
+      "4WD",
+      "Adaptive Cruise",
+      "ABS"
+    ],
+    "specifications": {
+      "engine": "3.9L V6",
+      "transmission": "Automatic",
+      "fuelType": "Diesel",
+      "mileage": "17 km/l",
+      "seatingCapacity": 3,
+      "color": "Blue"
+    },
+    "description": "A sport sedan for adventure use.",
+    "inStock": true,
+    "rating": 3.7,
+    "tags": [
+      "fuel-efficient",
+      "sport"
+    ],
+    "reviews": [
+      {
+        "user": "User4",
+        "rating": 5,
+        "comment": "Handles well.",
+        "date": "2024-06-27"
+      },
+      {
+        "user": "User17",
+        "rating": 3,
+        "comment": "Would buy again.",
+        "date": "2024-06-17"
+      }
+    ],
+    "wishlistCount": 0,
+    "createdAt": "2024-05-25T10:00:00Z",
+    "updatedAt": "2024-06-01T12:00:00Z",
+    "dealer": {
+      "name": "Mombasa Autos",
+      "location": "Mombasa, Kenya",
+      "contact": "+254700000002"
+    }
+  },
+  {
+    "id": "car_002",
+    "brand": "Honda",
+    "model": "3 Series",
+    "year": 2018,
+    "price": 2542907,
+    "category": "SUV",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Honda,3 Series,SUV,2",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Honda,3 Series,SUV,2,1",
+      "https://source.unsplash.com/featured/600x400/?car,Honda,3 Series,SUV,2,2",
+      "https://source.unsplash.com/featured/600x400/?car,Honda,3 Series,SUV,2,3"
+    ],
+    "features": [
+      "Adaptive Cruise",
+      "Leather Seats",
+      "Premium Audio",
+      "AWD",
+      "Bluetooth",
+      "ABS"
+    ],
+    "specifications": {
+      "engine": "1.1L V6",
+      "transmission": "Automatic",
+      "fuelType": "Diesel",
+      "mileage": "20 km/l",
+      "seatingCapacity": 5,
+      "color": "Red"
+    },
+    "description": "A adventure suv for adventure use.",
+    "inStock": true,
+    "rating": 4.9,
+    "tags": [
+      "business",
+      "off-road"
+    ],
+    "reviews": [
+      {
+        "user": "User12",
+        "rating": 3,
+        "comment": "Good value.",
+        "date": "2024-06-27"
+      }
+    ],
+    "wishlistCount": 1,
+    "createdAt": "2024-05-05T10:00:00Z",
+    "updatedAt": "2024-06-20T12:00:00Z",
+    "dealer": {
+      "name": "Nairobi Motors",
+      "location": "Nairobi, Kenya",
+      "contact": "+254700000001"
+    }
+  },
+  {
+    "id": "car_003",
+    "brand": "Honda",
+    "model": "Forester",
+    "year": 2023,
+    "price": 7798171,
+    "category": "Van",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Honda,Forester,Van,3",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Honda,Forester,Van,3,1",
+      "https://source.unsplash.com/featured/600x400/?car,Honda,Forester,Van,3,2",
+      "https://source.unsplash.com/featured/600x400/?car,Honda,Forester,Van,3,3"
+    ],
+    "features": [
+      "Heated Seats",
+      "Alloy Wheels",
+      "Alloy Wheels",
+      "Heated Seats",
+      "Memory Seats",
+      "Sunroof"
+    ],
+    "specifications": {
+      "engine": "3.5L V6",
+      "transmission": "Manual",
+      "fuelType": "Hybrid",
+      "mileage": "17 km/l",
+      "seatingCapacity": 3,
+      "color": "White"
+    },
+    "description": "A sport van for family use.",
+    "inStock": true,
+    "rating": 3.7,
+    "tags": [
+      "business",
+      "off-road"
+    ],
+    "reviews": [
+      {
+        "user": "User15",
+        "rating": 5,
+        "comment": "Handles well.",
+        "date": "2024-06-28"
+      }
+    ],
+    "wishlistCount": 18,
+    "createdAt": "2024-05-01T10:00:00Z",
+    "updatedAt": "2024-06-28T12:00:00Z",
+    "dealer": {
+      "name": "Kisumu Cars",
+      "location": "Kisumu, Kenya",
+      "contact": "+254700000003"
+    }
+  },
+  {
+    "id": "car_004",
+    "brand": "Ford",
+    "model": "Demio",
+    "year": 2019,
+    "price": 8214035,
+    "category": "Hatchback",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Ford,Demio,Hatchback,4",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Ford,Demio,Hatchback,4,1",
+      "https://source.unsplash.com/featured/600x400/?car,Ford,Demio,Hatchback,4,2",
+      "https://source.unsplash.com/featured/600x400/?car,Ford,Demio,Hatchback,4,3"
+    ],
+    "features": [
+      "ABS",
+      "Lane Assist",
+      "ABS",
+      "Bluetooth"
+    ],
+    "specifications": {
+      "engine": "2.9L 4-Cylinder",
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "mileage": "11 km/l",
+      "seatingCapacity": 3,
+      "color": "Black"
+    },
+    "description": "A adventure hatchback for adventure use.",
+    "inStock": true,
+    "rating": 5,
+    "tags": [
+      "business",
+      "off-road"
+    ],
+    "reviews": [
+      {
+        "user": "User17",
+        "rating": 4,
+        "comment": "Very comfortable.",
+        "date": "2024-06-17"
+      },
+      {
+        "user": "User1",
+        "rating": 5,
+        "comment": "Good value.",
+        "date": "2024-06-16"
+      },
+      {
+        "user": "User17",
+        "rating": 5,
+        "comment": "Good value.",
+        "date": "2024-06-23"
+      }
+    ],
+    "wishlistCount": 8,
+    "createdAt": "2024-05-01T10:00:00Z",
+    "updatedAt": "2024-06-02T12:00:00Z",
+    "dealer": {
+      "name": "Kisumu Cars",
+      "location": "Kisumu, Kenya",
+      "contact": "+254700000003"
+    }
+  },
+  {
+    "id": "car_005",
+    "brand": "Subaru",
+    "model": "Demio",
+    "year": 2023,
+    "price": 7875300,
+    "category": "SUV",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Subaru,Demio,SUV,5",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Subaru,Demio,SUV,5,1",
+      "https://source.unsplash.com/featured/600x400/?car,Subaru,Demio,SUV,5,2",
+      "https://source.unsplash.com/featured/600x400/?car,Subaru,Demio,SUV,5,3"
+    ],
+    "features": [
+      "4WD",
+      "Alloy Wheels",
+      "Airbags"
+    ],
+    "specifications": {
+      "engine": "3.0L V8",
+      "transmission": "CVT",
+      "fuelType": "Petrol",
+      "mileage": "14 km/l",
+      "seatingCapacity": 6,
+      "color": "Silver"
+    },
+    "description": "A fuel-efficient suv for city use.",
+    "inStock": true,
+    "rating": 4.9,
+    "tags": [
+      "business",
+      "city"
+    ],
+    "reviews": [
+      {
+        "user": "User16",
+        "rating": 3,
+        "comment": "Would buy again.",
+        "date": "2024-06-02"
+      },
+      {
+        "user": "User9",
+        "rating": 3,
+        "comment": "Great car!",
+        "date": "2024-06-17"
+      },
+      {
+        "user": "User10",
+        "rating": 4,
+        "comment": "Very comfortable.",
+        "date": "2024-06-27"
+      },
+      {
+        "user": "User15",
+        "rating": 3,
+        "comment": "Very comfortable.",
+        "date": "2024-06-20"
+      }
+    ],
+    "wishlistCount": 25,
+    "createdAt": "2024-05-24T10:00:00Z",
+    "updatedAt": "2024-06-08T12:00:00Z",
+    "dealer": {
+      "name": "Kisumu Cars",
+      "location": "Kisumu, Kenya",
+      "contact": "+254700000003"
+    }
+  },
+  {
+    "id": "car_006",
+    "brand": "Mazda",
+    "model": "Ranger",
+    "year": 2022,
+    "price": 3855102,
+    "category": "Hatchback",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Mazda,Ranger,Hatchback,6",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Mazda,Ranger,Hatchback,6,1",
+      "https://source.unsplash.com/featured/600x400/?car,Mazda,Ranger,Hatchback,6,2",
+      "https://source.unsplash.com/featured/600x400/?car,Mazda,Ranger,Hatchback,6,3"
+    ],
+    "features": [
+      "Bluetooth",
+      "Heated Seats",
+      "AWD"
+    ],
+    "specifications": {
+      "engine": "3.4L 4-Cylinder",
+      "transmission": "CVT",
+      "fuelType": "Hybrid",
+      "mileage": "15 km/l",
+      "seatingCapacity": 3,
+      "color": "Gray"
+    },
+    "description": "A city hatchback for business use.",
+    "inStock": true,
+    "rating": 4.1,
+    "tags": [
+      "adventure",
+      "city"
+    ],
+    "reviews": [
+      {
+        "user": "User8",
+        "rating": 3,
+        "comment": "Good value.",
+        "date": "2024-06-10"
+      }
+    ],
+    "wishlistCount": 6,
+    "createdAt": "2024-05-08T10:00:00Z",
+    "updatedAt": "2024-06-12T12:00:00Z",
+    "dealer": {
+      "name": "Nairobi Motors",
+      "location": "Nairobi, Kenya",
+      "contact": "+254700000001"
+    }
+  },
+  {
+    "id": "car_007",
+    "brand": "Mazda",
+    "model": "Forester",
+    "year": 2018,
+    "price": 13799115,
+    "category": "Hatchback",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Mazda,Forester,Hatchback,7",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Mazda,Forester,Hatchback,7,1",
+      "https://source.unsplash.com/featured/600x400/?car,Mazda,Forester,Hatchback,7,2",
+      "https://source.unsplash.com/featured/600x400/?car,Mazda,Forester,Hatchback,7,3"
+    ],
+    "features": [
+      "Sunroof",
+      "Memory Seats",
+      "Air Conditioning",
+      "Alloy Wheels",
+      "Power Steering",
+      "Keyless Entry"
+    ],
+    "specifications": {
+      "engine": "3.2L V6",
+      "transmission": "Manual",
+      "fuelType": "Hybrid",
+      "mileage": "20 km/l",
+      "seatingCapacity": 4,
+      "color": "Blue"
+    },
+    "description": "A business hatchback for business use.",
+    "inStock": true,
+    "rating": 4.6,
+    "tags": [
+      "family",
+      "business"
+    ],
+    "reviews": [
+      {
+        "user": "User19",
+        "rating": 5,
+        "comment": "Great car!",
+        "date": "2024-06-04"
+      },
+      {
+        "user": "User9",
+        "rating": 5,
+        "comment": "Very comfortable.",
+        "date": "2024-06-06"
+      },
+      {
+        "user": "User16",
+        "rating": 3,
+        "comment": "Great car!",
+        "date": "2024-06-08"
+      },
+      {
+        "user": "User9",
+        "rating": 5,
+        "comment": "Very comfortable.",
+        "date": "2024-06-20"
+      }
+    ],
+    "wishlistCount": 3,
+    "createdAt": "2024-05-25T10:00:00Z",
+    "updatedAt": "2024-06-11T12:00:00Z",
+    "dealer": {
+      "name": "Mombasa Autos",
+      "location": "Mombasa, Kenya",
+      "contact": "+254700000002"
+    }
+  },
+  {
+    "id": "car_008",
+    "brand": "Toyota",
+    "model": "Sportage",
+    "year": 2020,
+    "price": 2992349,
+    "category": "Pickup",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Toyota,Sportage,Pickup,8",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Toyota,Sportage,Pickup,8,1",
+      "https://source.unsplash.com/featured/600x400/?car,Toyota,Sportage,Pickup,8,2",
+      "https://source.unsplash.com/featured/600x400/?car,Toyota,Sportage,Pickup,8,3"
+    ],
+    "features": [
+      "Backup Camera",
+      "Leather Seats",
+      "Air Conditioning",
+      "Keyless Entry",
+      "Air Conditioning",
+      "Bluetooth"
+    ],
+    "specifications": {
+      "engine": "2.7L V6",
+      "transmission": "Manual",
+      "fuelType": "Diesel",
+      "mileage": "13 km/l",
+      "seatingCapacity": 6,
+      "color": "Red"
+    },
+    "description": "A business pickup for business use.",
+    "inStock": true,
+    "rating": 4.5,
+    "tags": [
+      "fuel-efficient",
+      "city"
+    ],
+    "reviews": [
+      {
+        "user": "User14",
+        "rating": 3,
+        "comment": "Would buy again.",
+        "date": "2024-06-07"
+      },
+      {
+        "user": "User8",
+        "rating": 3,
+        "comment": "Great car!",
+        "date": "2024-06-03"
+      },
+      {
+        "user": "User14",
+        "rating": 4,
+        "comment": "Great car!",
+        "date": "2024-06-23"
+      },
+      {
+        "user": "User4",
+        "rating": 3,
+        "comment": "Handles well.",
+        "date": "2024-06-21"
+      }
+    ],
+    "wishlistCount": 10,
+    "createdAt": "2024-05-04T10:00:00Z",
+    "updatedAt": "2024-06-03T12:00:00Z",
+    "dealer": {
+      "name": "Kisumu Cars",
+      "location": "Kisumu, Kenya",
+      "contact": "+254700000003"
+    }
+  },
+  {
+    "id": "car_009",
+    "brand": "Subaru",
+    "model": "Demio",
+    "year": 2020,
+    "price": 6226751,
+    "category": "Luxury",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Subaru,Demio,Luxury,9",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Subaru,Demio,Luxury,9,1",
+      "https://source.unsplash.com/featured/600x400/?car,Subaru,Demio,Luxury,9,2",
+      "https://source.unsplash.com/featured/600x400/?car,Subaru,Demio,Luxury,9,3"
+    ],
+    "features": [
+      "Premium Audio",
+      "Backup Camera",
+      "Backup Camera"
+    ],
+    "specifications": {
+      "engine": "3.0L 4-Cylinder",
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "mileage": "15 km/l",
+      "seatingCapacity": 3,
+      "color": "Blue"
+    },
+    "description": "A adventure luxury for adventure use.",
+    "inStock": true,
+    "rating": 4.5,
+    "tags": [
+      "luxury",
+      "fuel-efficient"
+    ],
+    "reviews": [
+      {
+        "user": "User3",
+        "rating": 5,
+        "comment": "Would buy again.",
+        "date": "2024-06-25"
+      },
+      {
+        "user": "User6",
+        "rating": 4,
+        "comment": "Would buy again.",
+        "date": "2024-06-04"
+      }
+    ],
+    "wishlistCount": 19,
+    "createdAt": "2024-05-27T10:00:00Z",
+    "updatedAt": "2024-06-19T12:00:00Z",
+    "dealer": {
+      "name": "Mombasa Autos",
+      "location": "Mombasa, Kenya",
+      "contact": "+254700000002"
+    }
+  },
+  {
+    "id": "car_010",
+    "brand": "Honda",
+    "model": "Demio",
+    "year": 2021,
+    "price": 7967824,
+    "category": "Pickup",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Honda,Demio,Pickup,10",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Honda,Demio,Pickup,10,1",
+      "https://source.unsplash.com/featured/600x400/?car,Honda,Demio,Pickup,10,2",
+      "https://source.unsplash.com/featured/600x400/?car,Honda,Demio,Pickup,10,3"
+    ],
+    "features": [
+      "Keyless Entry",
+      "Air Conditioning",
+      "Air Conditioning",
+      "Sunroof",
+      "Premium Audio"
+    ],
+    "specifications": {
+      "engine": "1.0L V8",
+      "transmission": "Automatic",
+      "fuelType": "Hybrid",
+      "mileage": "10 km/l",
+      "seatingCapacity": 7,
+      "color": "Blue"
+    },
+    "description": "A luxury pickup for business use.",
+    "inStock": true,
+    "rating": 4.4,
+    "tags": [
+      "family",
+      "adventure"
+    ],
+    "reviews": [
+      {
+        "user": "User15",
+        "rating": 5,
+        "comment": "Great car!",
+        "date": "2024-06-13"
+      }
+    ],
+    "wishlistCount": 5,
+    "createdAt": "2024-05-28T10:00:00Z",
+    "updatedAt": "2024-06-05T12:00:00Z",
+    "dealer": {
+      "name": "Kisumu Cars",
+      "location": "Kisumu, Kenya",
+      "contact": "+254700000003"
+    }
+  },
+  {
+    "id": "car_011",
+    "brand": "BMW",
+    "model": "Sportage",
+    "year": 2020,
+    "price": 2149970,
+    "category": "Sedan",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,BMW,Sportage,Sedan,11",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,BMW,Sportage,Sedan,11,1",
+      "https://source.unsplash.com/featured/600x400/?car,BMW,Sportage,Sedan,11,2",
+      "https://source.unsplash.com/featured/600x400/?car,BMW,Sportage,Sedan,11,3"
+    ],
+    "features": [
+      "Bluetooth",
+      "AWD",
+      "Premium Audio",
+      "Premium Audio"
+    ],
+    "specifications": {
+      "engine": "1.8L V6",
+      "transmission": "Manual",
+      "fuelType": "Hybrid",
+      "mileage": "11 km/l",
+      "seatingCapacity": 7,
+      "color": "White"
+    },
+    "description": "A business sedan for business use.",
+    "inStock": true,
+    "rating": 3.7,
+    "tags": [
+      "sport"
+    ],
+    "reviews": [
+      {
+        "user": "User8",
+        "rating": 5,
+        "comment": "Would buy again.",
+        "date": "2024-06-13"
+      }
+    ],
+    "wishlistCount": 23,
+    "createdAt": "2024-05-21T10:00:00Z",
+    "updatedAt": "2024-06-06T12:00:00Z",
+    "dealer": {
+      "name": "Nairobi Motors",
+      "location": "Nairobi, Kenya",
+      "contact": "+254700000001"
+    }
+  },
+  {
+    "id": "car_012",
+    "brand": "Toyota",
+    "model": "Golf",
+    "year": 2018,
+    "price": 11502381,
+    "category": "Sedan",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Toyota,Golf,Sedan,12",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Toyota,Golf,Sedan,12,1",
+      "https://source.unsplash.com/featured/600x400/?car,Toyota,Golf,Sedan,12,2",
+      "https://source.unsplash.com/featured/600x400/?car,Toyota,Golf,Sedan,12,3"
+    ],
+    "features": [
+      "Adaptive Cruise",
+      "Alloy Wheels",
+      "AWD",
+      "Backup Camera"
+    ],
+    "specifications": {
+      "engine": "2.4L 4-Cylinder",
+      "transmission": "CVT",
+      "fuelType": "Hybrid",
+      "mileage": "10 km/l",
+      "seatingCapacity": 7,
+      "color": "Red"
+    },
+    "description": "A sport sedan for adventure use.",
+    "inStock": true,
+    "rating": 4.2,
+    "tags": [
+      "sport",
+      "luxury"
+    ],
+    "reviews": [
+      {
+        "user": "User15",
+        "rating": 5,
+        "comment": "Handles well.",
+        "date": "2024-06-06"
+      },
+      {
+        "user": "User5",
+        "rating": 3,
+        "comment": "Handles well.",
+        "date": "2024-06-12"
+      },
+      {
+        "user": "User11",
+        "rating": 4,
+        "comment": "Very comfortable.",
+        "date": "2024-06-20"
+      }
+    ],
+    "wishlistCount": 14,
+    "createdAt": "2024-05-17T10:00:00Z",
+    "updatedAt": "2024-06-16T12:00:00Z",
+    "dealer": {
+      "name": "Nairobi Motors",
+      "location": "Nairobi, Kenya",
+      "contact": "+254700000001"
+    }
+  },
+  {
+    "id": "car_013",
+    "brand": "Honda",
+    "model": "3 Series",
+    "year": 2023,
+    "price": 14625530,
+    "category": "Hatchback",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Honda,3 Series,Hatchback,13",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Honda,3 Series,Hatchback,13,1",
+      "https://source.unsplash.com/featured/600x400/?car,Honda,3 Series,Hatchback,13,2",
+      "https://source.unsplash.com/featured/600x400/?car,Honda,3 Series,Hatchback,13,3"
+    ],
+    "features": [
+      "Backup Camera",
+      "Memory Seats",
+      "Ambient Lighting",
+      "Keyless Entry",
+      "Backup Camera"
+    ],
+    "specifications": {
+      "engine": "3.1L V6",
+      "transmission": "CVT",
+      "fuelType": "Petrol",
+      "mileage": "11 km/l",
+      "seatingCapacity": 6,
+      "color": "Gray"
+    },
+    "description": "A business hatchback for city use.",
+    "inStock": true,
+    "rating": 4.6,
+    "tags": [
+      "fuel-efficient",
+      "sport"
+    ],
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 5,
+        "comment": "Very comfortable.",
+        "date": "2024-06-09"
+      }
+    ],
+    "wishlistCount": 5,
+    "createdAt": "2024-05-23T10:00:00Z",
+    "updatedAt": "2024-06-06T12:00:00Z",
+    "dealer": {
+      "name": "Kisumu Cars",
+      "location": "Kisumu, Kenya",
+      "contact": "+254700000003"
+    }
+  },
+  {
+    "id": "car_014",
+    "brand": "Mazda",
+    "model": "CR-V",
+    "year": 2021,
+    "price": 1757302,
+    "category": "Convertible",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Mazda,CR-V,Convertible,14",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Mazda,CR-V,Convertible,14,1",
+      "https://source.unsplash.com/featured/600x400/?car,Mazda,CR-V,Convertible,14,2",
+      "https://source.unsplash.com/featured/600x400/?car,Mazda,CR-V,Convertible,14,3"
+    ],
+    "features": [
+      "Ambient Lighting",
+      "Navigation",
+      "Sunroof"
+    ],
+    "specifications": {
+      "engine": "1.8L 4-Cylinder",
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "mileage": "10 km/l",
+      "seatingCapacity": 5,
+      "color": "Blue"
+    },
+    "description": "A off-road convertible for family use.",
+    "inStock": true,
+    "rating": 4.9,
+    "tags": [
+      "city",
+      "fuel-efficient"
+    ],
+    "reviews": [
+      {
+        "user": "User4",
+        "rating": 4,
+        "comment": "Handles well.",
+        "date": "2024-06-26"
+      }
+    ],
+    "wishlistCount": 30,
+    "createdAt": "2024-05-13T10:00:00Z",
+    "updatedAt": "2024-06-24T12:00:00Z",
+    "dealer": {
+      "name": "Nairobi Motors",
+      "location": "Nairobi, Kenya",
+      "contact": "+254700000001"
+    }
+  },
+  {
+    "id": "car_015",
+    "brand": "Ford",
+    "model": "Golf",
+    "year": 2018,
+    "price": 4707326,
+    "category": "Luxury",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Ford,Golf,Luxury,15",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Ford,Golf,Luxury,15,1",
+      "https://source.unsplash.com/featured/600x400/?car,Ford,Golf,Luxury,15,2",
+      "https://source.unsplash.com/featured/600x400/?car,Ford,Golf,Luxury,15,3"
+    ],
+    "features": [
+      "Heated Seats",
+      "Air Conditioning",
+      "Sunroof",
+      "Lane Assist"
+    ],
+    "specifications": {
+      "engine": "3.7L 4-Cylinder",
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "mileage": "14 km/l",
+      "seatingCapacity": 3,
+      "color": "Red"
+    },
+    "description": "A sport luxury for family use.",
+    "inStock": true,
+    "rating": 4.2,
+    "tags": [
+      "luxury",
+      "sport"
+    ],
+    "reviews": [
+      {
+        "user": "User6",
+        "rating": 5,
+        "comment": "Good value.",
+        "date": "2024-06-15"
+      },
+      {
+        "user": "User14",
+        "rating": 3,
+        "comment": "Very comfortable.",
+        "date": "2024-06-10"
+      },
+      {
+        "user": "User3",
+        "rating": 4,
+        "comment": "Good value.",
+        "date": "2024-06-10"
+      },
+      {
+        "user": "User17",
+        "rating": 5,
+        "comment": "Good value.",
+        "date": "2024-06-26"
+      }
+    ],
+    "wishlistCount": 24,
+    "createdAt": "2024-05-07T10:00:00Z",
+    "updatedAt": "2024-06-11T12:00:00Z",
+    "dealer": {
+      "name": "Mombasa Autos",
+      "location": "Mombasa, Kenya",
+      "contact": "+254700000002"
+    }
+  },
+  {
+    "id": "car_016",
+    "brand": "Ford",
+    "model": "3 Series",
+    "year": 2020,
+    "price": 13225003,
+    "category": "Convertible",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Ford,3 Series,Convertible,16",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Ford,3 Series,Convertible,16,1",
+      "https://source.unsplash.com/featured/600x400/?car,Ford,3 Series,Convertible,16,2",
+      "https://source.unsplash.com/featured/600x400/?car,Ford,3 Series,Convertible,16,3"
+    ],
+    "features": [
+      "AWD",
+      "Navigation",
+      "Air Conditioning"
+    ],
+    "specifications": {
+      "engine": "4.8L V8",
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "mileage": "16 km/l",
+      "seatingCapacity": 3,
+      "color": "Red"
+    },
+    "description": "A city convertible for adventure use.",
+    "inStock": true,
+    "rating": 4.7,
+    "tags": [
+      "luxury",
+      "business"
+    ],
+    "reviews": [
+      {
+        "user": "User16",
+        "rating": 5,
+        "comment": "Very comfortable.",
+        "date": "2024-06-05"
+      }
+    ],
+    "wishlistCount": 6,
+    "createdAt": "2024-05-18T10:00:00Z",
+    "updatedAt": "2024-06-16T12:00:00Z",
+    "dealer": {
+      "name": "Kisumu Cars",
+      "location": "Kisumu, Kenya",
+      "contact": "+254700000003"
+    }
+  },
+  {
+    "id": "car_017",
+    "brand": "BMW",
+    "model": "Forester",
+    "year": 2022,
+    "price": 3419672,
+    "category": "SUV",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,BMW,Forester,SUV,17",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,BMW,Forester,SUV,17,1",
+      "https://source.unsplash.com/featured/600x400/?car,BMW,Forester,SUV,17,2",
+      "https://source.unsplash.com/featured/600x400/?car,BMW,Forester,SUV,17,3"
+    ],
+    "features": [
+      "Backup Camera",
+      "Air Conditioning",
+      "Leather Seats"
+    ],
+    "specifications": {
+      "engine": "1.1L 4-Cylinder",
+      "transmission": "CVT",
+      "fuelType": "Hybrid",
+      "mileage": "18 km/l",
+      "seatingCapacity": 7,
+      "color": "Gray"
+    },
+    "description": "A fuel-efficient suv for family use.",
+    "inStock": true,
+    "rating": 4.6,
+    "tags": [
+      "family",
+      "adventure"
+    ],
+    "reviews": [
+      {
+        "user": "User17",
+        "rating": 4,
+        "comment": "Great car!",
+        "date": "2024-06-07"
+      }
+    ],
+    "wishlistCount": 3,
+    "createdAt": "2024-05-13T10:00:00Z",
+    "updatedAt": "2024-06-28T12:00:00Z",
+    "dealer": {
+      "name": "Kisumu Cars",
+      "location": "Kisumu, Kenya",
+      "contact": "+254700000003"
+    }
+  },
+  {
+    "id": "car_018",
+    "brand": "Ford",
+    "model": "3 Series",
+    "year": 2020,
+    "price": 11092200,
+    "category": "Van",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Ford,3 Series,Van,18",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Ford,3 Series,Van,18,1",
+      "https://source.unsplash.com/featured/600x400/?car,Ford,3 Series,Van,18,2",
+      "https://source.unsplash.com/featured/600x400/?car,Ford,3 Series,Van,18,3"
+    ],
+    "features": [
+      "Lane Assist",
+      "AWD",
+      "Sunroof",
+      "Navigation",
+      "Lane Assist"
+    ],
+    "specifications": {
+      "engine": "3.1L V6",
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "mileage": "19 km/l",
+      "seatingCapacity": 3,
+      "color": "Gray"
+    },
+    "description": "A luxury van for city use.",
+    "inStock": true,
+    "rating": 4.7,
+    "tags": [
+      "business",
+      "luxury"
+    ],
+    "reviews": [
+      {
+        "user": "User14",
+        "rating": 3,
+        "comment": "Very comfortable.",
+        "date": "2024-06-09"
+      }
+    ],
+    "wishlistCount": 12,
+    "createdAt": "2024-05-02T10:00:00Z",
+    "updatedAt": "2024-06-19T12:00:00Z",
+    "dealer": {
+      "name": "Mombasa Autos",
+      "location": "Mombasa, Kenya",
+      "contact": "+254700000002"
+    }
+  },
+  {
+    "id": "car_019",
+    "brand": "Kia",
+    "model": "Forester",
+    "year": 2019,
+    "price": 7095443,
+    "category": "Van",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Kia,Forester,Van,19",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Kia,Forester,Van,19,1",
+      "https://source.unsplash.com/featured/600x400/?car,Kia,Forester,Van,19,2",
+      "https://source.unsplash.com/featured/600x400/?car,Kia,Forester,Van,19,3"
+    ],
+    "features": [
+      "Ambient Lighting",
+      "Lane Assist",
+      "Heated Seats",
+      "Adaptive Cruise",
+      "Fog Lights",
+      "Backup Camera"
+    ],
+    "specifications": {
+      "engine": "3.7L V6",
+      "transmission": "CVT",
+      "fuelType": "Hybrid",
+      "mileage": "14 km/l",
+      "seatingCapacity": 5,
+      "color": "Red"
+    },
+    "description": "A family van for adventure use.",
+    "inStock": true,
+    "rating": 4.5,
+    "tags": [
+      "family",
+      "sport"
+    ],
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 5,
+        "comment": "Would buy again.",
+        "date": "2024-06-05"
+      },
+      {
+        "user": "User9",
+        "rating": 5,
+        "comment": "Would buy again.",
+        "date": "2024-06-27"
+      },
+      {
+        "user": "User5",
+        "rating": 4,
+        "comment": "Handles well.",
+        "date": "2024-06-24"
+      }
+    ],
+    "wishlistCount": 30,
+    "createdAt": "2024-05-15T10:00:00Z",
+    "updatedAt": "2024-06-16T12:00:00Z",
+    "dealer": {
+      "name": "Kisumu Cars",
+      "location": "Kisumu, Kenya",
+      "contact": "+254700000003"
+    }
+  },
+  {
+    "id": "car_020",
+    "brand": "Kia",
+    "model": "3 Series",
+    "year": 2023,
+    "price": 1650313,
+    "category": "Hatchback",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Kia,3 Series,Hatchback,20",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Kia,3 Series,Hatchback,20,1",
+      "https://source.unsplash.com/featured/600x400/?car,Kia,3 Series,Hatchback,20,2",
+      "https://source.unsplash.com/featured/600x400/?car,Kia,3 Series,Hatchback,20,3"
+    ],
+    "features": [
+      "Fog Lights",
+      "Premium Audio",
+      "Adaptive Cruise",
+      "Airbags",
+      "Power Steering"
+    ],
+    "specifications": {
+      "engine": "2.3L V6",
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "mileage": "16 km/l",
+      "seatingCapacity": 5,
+      "color": "Silver"
+    },
+    "description": "A adventure hatchback for adventure use.",
+    "inStock": true,
+    "rating": 4.6,
+    "tags": [
+      "fuel-efficient",
+      "off-road"
+    ],
+    "reviews": [
+      {
+        "user": "User7",
+        "rating": 5,
+        "comment": "Good value.",
+        "date": "2024-06-03"
+      }
+    ],
+    "wishlistCount": 6,
+    "createdAt": "2024-05-11T10:00:00Z",
+    "updatedAt": "2024-06-05T12:00:00Z",
+    "dealer": {
+      "name": "Kisumu Cars",
+      "location": "Kisumu, Kenya",
+      "contact": "+254700000003"
+    }
+  },
+  {
+    "id": "car_021",
+    "brand": "Volkswagen",
+    "model": "X-Trail",
+    "year": 2020,
+    "price": 6736393,
+    "category": "SUV",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Volkswagen,X-Trail,SUV,21",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Volkswagen,X-Trail,SUV,21,1",
+      "https://source.unsplash.com/featured/600x400/?car,Volkswagen,X-Trail,SUV,21,2",
+      "https://source.unsplash.com/featured/600x400/?car,Volkswagen,X-Trail,SUV,21,3"
+    ],
+    "features": [
+      "Leather Seats",
+      "4WD",
+      "Alloy Wheels"
+    ],
+    "specifications": {
+      "engine": "1.5L V6",
+      "transmission": "CVT",
+      "fuelType": "Petrol",
+      "mileage": "13 km/l",
+      "seatingCapacity": 3,
+      "color": "Silver"
+    },
+    "description": "A business suv for city use.",
+    "inStock": true,
+    "rating": 3.9,
+    "tags": [
+      "city",
+      "off-road"
+    ],
+    "reviews": [
+      {
+        "user": "User10",
+        "rating": 5,
+        "comment": "Would buy again.",
+        "date": "2024-06-26"
+      },
+      {
+        "user": "User20",
+        "rating": 3,
+        "comment": "Good value.",
+        "date": "2024-06-25"
+      }
+    ],
+    "wishlistCount": 13,
+    "createdAt": "2024-05-20T10:00:00Z",
+    "updatedAt": "2024-06-14T12:00:00Z",
+    "dealer": {
+      "name": "Kisumu Cars",
+      "location": "Kisumu, Kenya",
+      "contact": "+254700000003"
+    }
+  },
+  {
+    "id": "car_022",
+    "brand": "Honda",
+    "model": "Golf",
+    "year": 2023,
+    "price": 7138754,
+    "category": "Sedan",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Honda,Golf,Sedan,22",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Honda,Golf,Sedan,22,1",
+      "https://source.unsplash.com/featured/600x400/?car,Honda,Golf,Sedan,22,2",
+      "https://source.unsplash.com/featured/600x400/?car,Honda,Golf,Sedan,22,3"
+    ],
+    "features": [
+      "Keyless Entry",
+      "Premium Audio",
+      "Premium Audio",
+      "Alloy Wheels"
+    ],
+    "specifications": {
+      "engine": "3.2L V8",
+      "transmission": "CVT",
+      "fuelType": "Petrol",
+      "mileage": "15 km/l",
+      "seatingCapacity": 4,
+      "color": "Blue"
+    },
+    "description": "A sport sedan for business use.",
+    "inStock": true,
+    "rating": 4.6,
+    "tags": [
+      "city",
+      "off-road"
+    ],
+    "reviews": [
+      {
+        "user": "User17",
+        "rating": 5,
+        "comment": "Good value.",
+        "date": "2024-06-11"
+      },
+      {
+        "user": "User15",
+        "rating": 3,
+        "comment": "Very comfortable.",
+        "date": "2024-06-07"
+      },
+      {
+        "user": "User7",
+        "rating": 5,
+        "comment": "Very comfortable.",
+        "date": "2024-06-17"
+      },
+      {
+        "user": "User4",
+        "rating": 4,
+        "comment": "Handles well.",
+        "date": "2024-06-13"
+      }
+    ],
+    "wishlistCount": 8,
+    "createdAt": "2024-05-13T10:00:00Z",
+    "updatedAt": "2024-06-02T12:00:00Z",
+    "dealer": {
+      "name": "Mombasa Autos",
+      "location": "Mombasa, Kenya",
+      "contact": "+254700000002"
+    }
+  },
+  {
+    "id": "car_023",
+    "brand": "Volkswagen",
+    "model": "Demio",
+    "year": 2019,
+    "price": 6314532,
+    "category": "Van",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Volkswagen,Demio,Van,23",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Volkswagen,Demio,Van,23,1",
+      "https://source.unsplash.com/featured/600x400/?car,Volkswagen,Demio,Van,23,2",
+      "https://source.unsplash.com/featured/600x400/?car,Volkswagen,Demio,Van,23,3"
+    ],
+    "features": [
+      "Navigation",
+      "Adaptive Cruise",
+      "4WD"
+    ],
+    "specifications": {
+      "engine": "2.2L V8",
+      "transmission": "Automatic",
+      "fuelType": "Hybrid",
+      "mileage": "12 km/l",
+      "seatingCapacity": 6,
+      "color": "Red"
+    },
+    "description": "A luxury van for adventure use.",
+    "inStock": true,
+    "rating": 4.9,
+    "tags": [
+      "sport",
+      "off-road"
+    ],
+    "reviews": [
+      {
+        "user": "User7",
+        "rating": 5,
+        "comment": "Handles well.",
+        "date": "2024-06-09"
+      },
+      {
+        "user": "User9",
+        "rating": 4,
+        "comment": "Handles well.",
+        "date": "2024-06-27"
+      },
+      {
+        "user": "User10",
+        "rating": 3,
+        "comment": "Very comfortable.",
+        "date": "2024-06-07"
+      },
+      {
+        "user": "User9",
+        "rating": 3,
+        "comment": "Very comfortable.",
+        "date": "2024-06-01"
+      }
+    ],
+    "wishlistCount": 17,
+    "createdAt": "2024-05-19T10:00:00Z",
+    "updatedAt": "2024-06-12T12:00:00Z",
+    "dealer": {
+      "name": "Nairobi Motors",
+      "location": "Nairobi, Kenya",
+      "contact": "+254700000001"
+    }
+  },
+  {
+    "id": "car_024",
+    "brand": "Ford",
+    "model": "CR-V",
+    "year": 2021,
+    "price": 6135613,
+    "category": "Pickup",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Ford,CR-V,Pickup,24",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Ford,CR-V,Pickup,24,1",
+      "https://source.unsplash.com/featured/600x400/?car,Ford,CR-V,Pickup,24,2",
+      "https://source.unsplash.com/featured/600x400/?car,Ford,CR-V,Pickup,24,3"
+    ],
+    "features": [
+      "Keyless Entry",
+      "Bluetooth",
+      "Heated Seats"
+    ],
+    "specifications": {
+      "engine": "4.1L 4-Cylinder",
+      "transmission": "Automatic",
+      "fuelType": "Diesel",
+      "mileage": "17 km/l",
+      "seatingCapacity": 6,
+      "color": "Black"
+    },
+    "description": "A fuel-efficient pickup for business use.",
+    "inStock": true,
+    "rating": 3.7,
+    "tags": [
+      "business",
+      "off-road"
+    ],
+    "reviews": [
+      {
+        "user": "User5",
+        "rating": 3,
+        "comment": "Handles well.",
+        "date": "2024-06-01"
+      },
+      {
+        "user": "User8",
+        "rating": 3,
+        "comment": "Handles well.",
+        "date": "2024-06-11"
+      }
+    ],
+    "wishlistCount": 21,
+    "createdAt": "2024-05-05T10:00:00Z",
+    "updatedAt": "2024-06-02T12:00:00Z",
+    "dealer": {
+      "name": "Mombasa Autos",
+      "location": "Mombasa, Kenya",
+      "contact": "+254700000002"
+    }
+  },
+  {
+    "id": "car_025",
+    "brand": "BMW",
+    "model": "CR-V",
+    "year": 2019,
+    "price": 6096657,
+    "category": "Van",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,BMW,CR-V,Van,25",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,BMW,CR-V,Van,25,1",
+      "https://source.unsplash.com/featured/600x400/?car,BMW,CR-V,Van,25,2",
+      "https://source.unsplash.com/featured/600x400/?car,BMW,CR-V,Van,25,3"
+    ],
+    "features": [
+      "4WD",
+      "Premium Audio",
+      "Backup Camera",
+      "Power Steering",
+      "Adaptive Cruise"
+    ],
+    "specifications": {
+      "engine": "1.4L 4-Cylinder",
+      "transmission": "Automatic",
+      "fuelType": "Diesel",
+      "mileage": "13 km/l",
+      "seatingCapacity": 7,
+      "color": "White"
+    },
+    "description": "A adventure van for business use.",
+    "inStock": true,
+    "rating": 3.6,
+    "tags": [
+      "sport"
+    ],
+    "reviews": [
+      {
+        "user": "User8",
+        "rating": 3,
+        "comment": "Would buy again.",
+        "date": "2024-06-23"
+      },
+      {
+        "user": "User20",
+        "rating": 4,
+        "comment": "Good value.",
+        "date": "2024-06-18"
+      }
+    ],
+    "wishlistCount": 1,
+    "createdAt": "2024-05-06T10:00:00Z",
+    "updatedAt": "2024-06-08T12:00:00Z",
+    "dealer": {
+      "name": "Nairobi Motors",
+      "location": "Nairobi, Kenya",
+      "contact": "+254700000001"
+    }
+  },
+  {
+    "id": "car_026",
+    "brand": "Ford",
+    "model": "CR-V",
+    "year": 2019,
+    "price": 12892887,
+    "category": "Van",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Ford,CR-V,Van,26",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Ford,CR-V,Van,26,1",
+      "https://source.unsplash.com/featured/600x400/?car,Ford,CR-V,Van,26,2",
+      "https://source.unsplash.com/featured/600x400/?car,Ford,CR-V,Van,26,3"
+    ],
+    "features": [
+      "Ambient Lighting",
+      "Power Steering",
+      "Premium Audio",
+      "Navigation"
+    ],
+    "specifications": {
+      "engine": "3.2L 4-Cylinder",
+      "transmission": "Automatic",
+      "fuelType": "Hybrid",
+      "mileage": "11 km/l",
+      "seatingCapacity": 4,
+      "color": "Black"
+    },
+    "description": "A business van for business use.",
+    "inStock": true,
+    "rating": 4,
+    "tags": [
+      "luxury",
+      "adventure"
+    ],
+    "reviews": [
+      {
+        "user": "User2",
+        "rating": 5,
+        "comment": "Handles well.",
+        "date": "2024-06-13"
+      },
+      {
+        "user": "User8",
+        "rating": 5,
+        "comment": "Very comfortable.",
+        "date": "2024-06-06"
+      }
+    ],
+    "wishlistCount": 27,
+    "createdAt": "2024-05-01T10:00:00Z",
+    "updatedAt": "2024-06-03T12:00:00Z",
+    "dealer": {
+      "name": "Kisumu Cars",
+      "location": "Kisumu, Kenya",
+      "contact": "+254700000003"
+    }
+  },
+  {
+    "id": "car_027",
+    "brand": "BMW",
+    "model": "Camry",
+    "year": 2021,
+    "price": 4606539,
+    "category": "Van",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,BMW,Camry,Van,27",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,BMW,Camry,Van,27,1",
+      "https://source.unsplash.com/featured/600x400/?car,BMW,Camry,Van,27,2",
+      "https://source.unsplash.com/featured/600x400/?car,BMW,Camry,Van,27,3"
+    ],
+    "features": [
+      "Heated Seats",
+      "Leather Seats",
+      "Lane Assist",
+      "Keyless Entry",
+      "Ambient Lighting"
+    ],
+    "specifications": {
+      "engine": "2.0L V6",
+      "transmission": "CVT",
+      "fuelType": "Hybrid",
+      "mileage": "16 km/l",
+      "seatingCapacity": 6,
+      "color": "White"
+    },
+    "description": "A off-road van for adventure use.",
+    "inStock": true,
+    "rating": 4.2,
+    "tags": [
+      "family",
+      "business"
+    ],
+    "reviews": [
+      {
+        "user": "User13",
+        "rating": 3,
+        "comment": "Good value.",
+        "date": "2024-06-18"
+      },
+      {
+        "user": "User6",
+        "rating": 5,
+        "comment": "Handles well.",
+        "date": "2024-06-16"
+      }
+    ],
+    "wishlistCount": 5,
+    "createdAt": "2024-05-11T10:00:00Z",
+    "updatedAt": "2024-06-04T12:00:00Z",
+    "dealer": {
+      "name": "Nairobi Motors",
+      "location": "Nairobi, Kenya",
+      "contact": "+254700000001"
+    }
+  },
+  {
+    "id": "car_028",
+    "brand": "Kia",
+    "model": "Camry",
+    "year": 2018,
+    "price": 14030547,
+    "category": "Sedan",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Kia,Camry,Sedan,28",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Kia,Camry,Sedan,28,1",
+      "https://source.unsplash.com/featured/600x400/?car,Kia,Camry,Sedan,28,2",
+      "https://source.unsplash.com/featured/600x400/?car,Kia,Camry,Sedan,28,3"
+    ],
+    "features": [
+      "ABS",
+      "Alloy Wheels",
+      "ABS",
+      "AWD",
+      "Ambient Lighting",
+      "Navigation"
+    ],
+    "specifications": {
+      "engine": "3.3L V6",
+      "transmission": "Manual",
+      "fuelType": "Diesel",
+      "mileage": "13 km/l",
+      "seatingCapacity": 5,
+      "color": "White"
+    },
+    "description": "A adventure sedan for city use.",
+    "inStock": true,
+    "rating": 3.9,
+    "tags": [
+      "family",
+      "adventure"
+    ],
+    "reviews": [
+      {
+        "user": "User17",
+        "rating": 5,
+        "comment": "Good value.",
+        "date": "2024-06-17"
+      },
+      {
+        "user": "User16",
+        "rating": 5,
+        "comment": "Would buy again.",
+        "date": "2024-06-26"
+      },
+      {
+        "user": "User1",
+        "rating": 4,
+        "comment": "Great car!",
+        "date": "2024-06-18"
+      }
+    ],
+    "wishlistCount": 6,
+    "createdAt": "2024-05-11T10:00:00Z",
+    "updatedAt": "2024-06-24T12:00:00Z",
+    "dealer": {
+      "name": "Mombasa Autos",
+      "location": "Mombasa, Kenya",
+      "contact": "+254700000002"
+    }
+  },
+  {
+    "id": "car_029",
+    "brand": "Nissan",
+    "model": "CR-V",
+    "year": 2020,
+    "price": 6831641,
+    "category": "Sedan",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Nissan,CR-V,Sedan,29",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Nissan,CR-V,Sedan,29,1",
+      "https://source.unsplash.com/featured/600x400/?car,Nissan,CR-V,Sedan,29,2",
+      "https://source.unsplash.com/featured/600x400/?car,Nissan,CR-V,Sedan,29,3"
+    ],
+    "features": [
+      "Premium Audio",
+      "ABS",
+      "Leather Seats",
+      "Air Conditioning"
+    ],
+    "specifications": {
+      "engine": "3.7L V8",
+      "transmission": "Manual",
+      "fuelType": "Hybrid",
+      "mileage": "14 km/l",
+      "seatingCapacity": 7,
+      "color": "Red"
+    },
+    "description": "A family sedan for city use.",
+    "inStock": true,
+    "rating": 4.3,
+    "tags": [
+      "adventure",
+      "family"
+    ],
+    "reviews": [
+      {
+        "user": "User2",
+        "rating": 4,
+        "comment": "Would buy again.",
+        "date": "2024-06-09"
+      },
+      {
+        "user": "User14",
+        "rating": 4,
+        "comment": "Handles well.",
+        "date": "2024-06-07"
+      }
+    ],
+    "wishlistCount": 2,
+    "createdAt": "2024-05-16T10:00:00Z",
+    "updatedAt": "2024-06-05T12:00:00Z",
+    "dealer": {
+      "name": "Mombasa Autos",
+      "location": "Mombasa, Kenya",
+      "contact": "+254700000002"
+    }
+  },
+  {
+    "id": "car_030",
+    "brand": "Volkswagen",
+    "model": "Forester",
+    "year": 2021,
+    "price": 8963197,
+    "category": "Hatchback",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Volkswagen,Forester,Hatchback,30",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Volkswagen,Forester,Hatchback,30,1",
+      "https://source.unsplash.com/featured/600x400/?car,Volkswagen,Forester,Hatchback,30,2",
+      "https://source.unsplash.com/featured/600x400/?car,Volkswagen,Forester,Hatchback,30,3"
+    ],
+    "features": [
+      "4WD",
+      "Keyless Entry",
+      "Air Conditioning"
+    ],
+    "specifications": {
+      "engine": "1.8L V8",
+      "transmission": "Manual",
+      "fuelType": "Hybrid",
+      "mileage": "10 km/l",
+      "seatingCapacity": 4,
+      "color": "Silver"
+    },
+    "description": "A off-road hatchback for business use.",
+    "inStock": false,
+    "rating": 3.7,
+    "tags": [
+      "city"
+    ],
+    "reviews": [
+      {
+        "user": "User17",
+        "rating": 3,
+        "comment": "Very comfortable.",
+        "date": "2024-06-21"
+      }
+    ],
+    "wishlistCount": 3,
+    "createdAt": "2024-05-17T10:00:00Z",
+    "updatedAt": "2024-06-12T12:00:00Z",
+    "dealer": {
+      "name": "Nairobi Motors",
+      "location": "Nairobi, Kenya",
+      "contact": "+254700000001"
+    }
+  },
+  {
+    "id": "car_031",
+    "brand": "Kia",
+    "model": "X-Trail",
+    "year": 2021,
+    "price": 2252525,
+    "category": "Pickup",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Kia,X-Trail,Pickup,31",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Kia,X-Trail,Pickup,31,1",
+      "https://source.unsplash.com/featured/600x400/?car,Kia,X-Trail,Pickup,31,2",
+      "https://source.unsplash.com/featured/600x400/?car,Kia,X-Trail,Pickup,31,3"
+    ],
+    "features": [
+      "Bluetooth",
+      "Bluetooth",
+      "Lane Assist"
+    ],
+    "specifications": {
+      "engine": "4.8L V8",
+      "transmission": "Manual",
+      "fuelType": "Diesel",
+      "mileage": "11 km/l",
+      "seatingCapacity": 2,
+      "color": "Blue"
+    },
+    "description": "A business pickup for family use.",
+    "inStock": true,
+    "rating": 4.2,
+    "tags": [
+      "city"
+    ],
+    "reviews": [
+      {
+        "user": "User6",
+        "rating": 4,
+        "comment": "Great car!",
+        "date": "2024-06-13"
+      },
+      {
+        "user": "User7",
+        "rating": 4,
+        "comment": "Very comfortable.",
+        "date": "2024-06-12"
+      },
+      {
+        "user": "User13",
+        "rating": 4,
+        "comment": "Would buy again.",
+        "date": "2024-06-06"
+      },
+      {
+        "user": "User14",
+        "rating": 5,
+        "comment": "Handles well.",
+        "date": "2024-06-23"
+      }
+    ],
+    "wishlistCount": 2,
+    "createdAt": "2024-05-20T10:00:00Z",
+    "updatedAt": "2024-06-06T12:00:00Z",
+    "dealer": {
+      "name": "Mombasa Autos",
+      "location": "Mombasa, Kenya",
+      "contact": "+254700000002"
+    }
+  },
+  {
+    "id": "car_032",
+    "brand": "Nissan",
+    "model": "3 Series",
+    "year": 2020,
+    "price": 12975292,
+    "category": "Luxury",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Nissan,3 Series,Luxury,32",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Nissan,3 Series,Luxury,32,1",
+      "https://source.unsplash.com/featured/600x400/?car,Nissan,3 Series,Luxury,32,2",
+      "https://source.unsplash.com/featured/600x400/?car,Nissan,3 Series,Luxury,32,3"
+    ],
+    "features": [
+      "Backup Camera",
+      "Alloy Wheels",
+      "Ambient Lighting",
+      "Sunroof",
+      "Keyless Entry",
+      "ABS"
+    ],
+    "specifications": {
+      "engine": "1.9L 4-Cylinder",
+      "transmission": "Manual",
+      "fuelType": "Hybrid",
+      "mileage": "10 km/l",
+      "seatingCapacity": 2,
+      "color": "Blue"
+    },
+    "description": "A city luxury for business use.",
+    "inStock": true,
+    "rating": 3.6,
+    "tags": [
+      "family",
+      "sport"
+    ],
+    "reviews": [
+      {
+        "user": "User19",
+        "rating": 3,
+        "comment": "Handles well.",
+        "date": "2024-06-05"
+      }
+    ],
+    "wishlistCount": 24,
+    "createdAt": "2024-05-18T10:00:00Z",
+    "updatedAt": "2024-06-27T12:00:00Z",
+    "dealer": {
+      "name": "Nairobi Motors",
+      "location": "Nairobi, Kenya",
+      "contact": "+254700000001"
+    }
+  },
+  {
+    "id": "car_033",
+    "brand": "Mazda",
+    "model": "Camry",
+    "year": 2023,
+    "price": 4796754,
+    "category": "Convertible",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Mazda,Camry,Convertible,33",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Mazda,Camry,Convertible,33,1",
+      "https://source.unsplash.com/featured/600x400/?car,Mazda,Camry,Convertible,33,2",
+      "https://source.unsplash.com/featured/600x400/?car,Mazda,Camry,Convertible,33,3"
+    ],
+    "features": [
+      "Memory Seats",
+      "4WD",
+      "Airbags",
+      "Sunroof"
+    ],
+    "specifications": {
+      "engine": "1.0L 4-Cylinder",
+      "transmission": "CVT",
+      "fuelType": "Diesel",
+      "mileage": "12 km/l",
+      "seatingCapacity": 5,
+      "color": "Red"
+    },
+    "description": "A off-road convertible for business use.",
+    "inStock": true,
+    "rating": 4.2,
+    "tags": [
+      "city",
+      "sport"
+    ],
+    "reviews": [
+      {
+        "user": "User20",
+        "rating": 3,
+        "comment": "Would buy again.",
+        "date": "2024-06-08"
+      }
+    ],
+    "wishlistCount": 20,
+    "createdAt": "2024-05-25T10:00:00Z",
+    "updatedAt": "2024-06-07T12:00:00Z",
+    "dealer": {
+      "name": "Mombasa Autos",
+      "location": "Mombasa, Kenya",
+      "contact": "+254700000002"
+    }
+  },
+  {
+    "id": "car_034",
+    "brand": "Mazda",
+    "model": "C-Class",
+    "year": 2018,
+    "price": 3424334,
+    "category": "SUV",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Mazda,C-Class,SUV,34",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Mazda,C-Class,SUV,34,1",
+      "https://source.unsplash.com/featured/600x400/?car,Mazda,C-Class,SUV,34,2",
+      "https://source.unsplash.com/featured/600x400/?car,Mazda,C-Class,SUV,34,3"
+    ],
+    "features": [
+      "Sunroof",
+      "Sunroof",
+      "Ambient Lighting",
+      "Ambient Lighting",
+      "Heated Seats"
+    ],
+    "specifications": {
+      "engine": "4.2L V6",
+      "transmission": "Manual",
+      "fuelType": "Diesel",
+      "mileage": "11 km/l",
+      "seatingCapacity": 4,
+      "color": "Red"
+    },
+    "description": "A off-road suv for adventure use.",
+    "inStock": true,
+    "rating": 4.6,
+    "tags": [
+      "family",
+      "sport"
+    ],
+    "reviews": [
+      {
+        "user": "User18",
+        "rating": 5,
+        "comment": "Good value.",
+        "date": "2024-06-21"
+      },
+      {
+        "user": "User6",
+        "rating": 3,
+        "comment": "Would buy again.",
+        "date": "2024-06-22"
+      }
+    ],
+    "wishlistCount": 6,
+    "createdAt": "2024-05-06T10:00:00Z",
+    "updatedAt": "2024-06-06T12:00:00Z",
+    "dealer": {
+      "name": "Nairobi Motors",
+      "location": "Nairobi, Kenya",
+      "contact": "+254700000001"
+    }
+  },
+  {
+    "id": "car_035",
+    "brand": "Honda",
+    "model": "Forester",
+    "year": 2023,
+    "price": 3789088,
+    "category": "SUV",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Honda,Forester,SUV,35",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Honda,Forester,SUV,35,1",
+      "https://source.unsplash.com/featured/600x400/?car,Honda,Forester,SUV,35,2",
+      "https://source.unsplash.com/featured/600x400/?car,Honda,Forester,SUV,35,3"
+    ],
+    "features": [
+      "Navigation",
+      "Air Conditioning",
+      "Heated Seats",
+      "Navigation"
+    ],
+    "specifications": {
+      "engine": "3.6L V6",
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "mileage": "13 km/l",
+      "seatingCapacity": 5,
+      "color": "Black"
+    },
+    "description": "A fuel-efficient suv for city use.",
+    "inStock": true,
+    "rating": 4,
+    "tags": [
+      "business",
+      "off-road"
+    ],
+    "reviews": [
+      {
+        "user": "User14",
+        "rating": 4,
+        "comment": "Good value.",
+        "date": "2024-06-07"
+      }
+    ],
+    "wishlistCount": 21,
+    "createdAt": "2024-05-13T10:00:00Z",
+    "updatedAt": "2024-06-23T12:00:00Z",
+    "dealer": {
+      "name": "Kisumu Cars",
+      "location": "Kisumu, Kenya",
+      "contact": "+254700000003"
+    }
+  },
+  {
+    "id": "car_036",
+    "brand": "Kia",
+    "model": "3 Series",
+    "year": 2023,
+    "price": 7258421,
+    "category": "Van",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Kia,3 Series,Van,36",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Kia,3 Series,Van,36,1",
+      "https://source.unsplash.com/featured/600x400/?car,Kia,3 Series,Van,36,2",
+      "https://source.unsplash.com/featured/600x400/?car,Kia,3 Series,Van,36,3"
+    ],
+    "features": [
+      "Alloy Wheels",
+      "Leather Seats",
+      "ABS",
+      "ABS",
+      "Backup Camera"
+    ],
+    "specifications": {
+      "engine": "3.9L V6",
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "mileage": "20 km/l",
+      "seatingCapacity": 6,
+      "color": "White"
+    },
+    "description": "A adventure van for family use.",
+    "inStock": false,
+    "rating": 3.9,
+    "tags": [
+      "sport",
+      "fuel-efficient"
+    ],
+    "reviews": [
+      {
+        "user": "User3",
+        "rating": 5,
+        "comment": "Would buy again.",
+        "date": "2024-06-25"
+      },
+      {
+        "user": "User17",
+        "rating": 4,
+        "comment": "Very comfortable.",
+        "date": "2024-06-28"
+      },
+      {
+        "user": "User10",
+        "rating": 5,
+        "comment": "Great car!",
+        "date": "2024-06-17"
+      }
+    ],
+    "wishlistCount": 24,
+    "createdAt": "2024-05-15T10:00:00Z",
+    "updatedAt": "2024-06-04T12:00:00Z",
+    "dealer": {
+      "name": "Nairobi Motors",
+      "location": "Nairobi, Kenya",
+      "contact": "+254700000001"
+    }
+  },
+  {
+    "id": "car_037",
+    "brand": "BMW",
+    "model": "Forester",
+    "year": 2021,
+    "price": 12628554,
+    "category": "Coupe",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,BMW,Forester,Coupe,37",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,BMW,Forester,Coupe,37,1",
+      "https://source.unsplash.com/featured/600x400/?car,BMW,Forester,Coupe,37,2",
+      "https://source.unsplash.com/featured/600x400/?car,BMW,Forester,Coupe,37,3"
+    ],
+    "features": [
+      "Navigation",
+      "Lane Assist",
+      "Airbags"
+    ],
+    "specifications": {
+      "engine": "4.2L V6",
+      "transmission": "Automatic",
+      "fuelType": "Diesel",
+      "mileage": "20 km/l",
+      "seatingCapacity": 5,
+      "color": "Black"
+    },
+    "description": "A off-road coupe for adventure use.",
+    "inStock": true,
+    "rating": 4.5,
+    "tags": [
+      "adventure"
+    ],
+    "reviews": [
+      {
+        "user": "User8",
+        "rating": 4,
+        "comment": "Handles well.",
+        "date": "2024-06-07"
+      }
+    ],
+    "wishlistCount": 25,
+    "createdAt": "2024-05-17T10:00:00Z",
+    "updatedAt": "2024-06-19T12:00:00Z",
+    "dealer": {
+      "name": "Nairobi Motors",
+      "location": "Nairobi, Kenya",
+      "contact": "+254700000001"
+    }
+  },
+  {
+    "id": "car_038",
+    "brand": "Ford",
+    "model": "3 Series",
+    "year": 2019,
+    "price": 10568749,
+    "category": "Van",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Ford,3 Series,Van,38",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Ford,3 Series,Van,38,1",
+      "https://source.unsplash.com/featured/600x400/?car,Ford,3 Series,Van,38,2",
+      "https://source.unsplash.com/featured/600x400/?car,Ford,3 Series,Van,38,3"
+    ],
+    "features": [
+      "Fog Lights",
+      "Navigation",
+      "Backup Camera"
+    ],
+    "specifications": {
+      "engine": "4.9L 4-Cylinder",
+      "transmission": "Manual",
+      "fuelType": "Petrol",
+      "mileage": "15 km/l",
+      "seatingCapacity": 3,
+      "color": "Red"
+    },
+    "description": "A sport van for city use.",
+    "inStock": true,
+    "rating": 4.4,
+    "tags": [
+      "family",
+      "sport"
+    ],
+    "reviews": [
+      {
+        "user": "User4",
+        "rating": 5,
+        "comment": "Very comfortable.",
+        "date": "2024-06-24"
+      },
+      {
+        "user": "User8",
+        "rating": 4,
+        "comment": "Good value.",
+        "date": "2024-06-17"
+      },
+      {
+        "user": "User4",
+        "rating": 5,
+        "comment": "Great car!",
+        "date": "2024-06-15"
+      }
+    ],
+    "wishlistCount": 13,
+    "createdAt": "2024-05-02T10:00:00Z",
+    "updatedAt": "2024-06-14T12:00:00Z",
+    "dealer": {
+      "name": "Kisumu Cars",
+      "location": "Kisumu, Kenya",
+      "contact": "+254700000003"
+    }
+  },
+  {
+    "id": "car_039",
+    "brand": "Kia",
+    "model": "Camry",
+    "year": 2023,
+    "price": 14142714,
+    "category": "Convertible",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Kia,Camry,Convertible,39",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Kia,Camry,Convertible,39,1",
+      "https://source.unsplash.com/featured/600x400/?car,Kia,Camry,Convertible,39,2",
+      "https://source.unsplash.com/featured/600x400/?car,Kia,Camry,Convertible,39,3"
+    ],
+    "features": [
+      "AWD",
+      "Ambient Lighting",
+      "Air Conditioning",
+      "Premium Audio",
+      "AWD"
+    ],
+    "specifications": {
+      "engine": "1.4L 4-Cylinder",
+      "transmission": "Automatic",
+      "fuelType": "Petrol",
+      "mileage": "19 km/l",
+      "seatingCapacity": 4,
+      "color": "Silver"
+    },
+    "description": "A luxury convertible for adventure use.",
+    "inStock": true,
+    "rating": 4.9,
+    "tags": [
+      "sport"
+    ],
+    "reviews": [
+      {
+        "user": "User7",
+        "rating": 5,
+        "comment": "Handles well.",
+        "date": "2024-06-25"
+      }
+    ],
+    "wishlistCount": 16,
+    "createdAt": "2024-05-21T10:00:00Z",
+    "updatedAt": "2024-06-01T12:00:00Z",
+    "dealer": {
+      "name": "Kisumu Cars",
+      "location": "Kisumu, Kenya",
+      "contact": "+254700000003"
+    }
+  },
+  {
+    "id": "car_040",
+    "brand": "Kia",
+    "model": "Demio",
+    "year": 2020,
+    "price": 7642592,
+    "category": "Pickup",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Kia,Demio,Pickup,40",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Kia,Demio,Pickup,40,1",
+      "https://source.unsplash.com/featured/600x400/?car,Kia,Demio,Pickup,40,2",
+      "https://source.unsplash.com/featured/600x400/?car,Kia,Demio,Pickup,40,3"
+    ],
+    "features": [
+      "Airbags",
+      "Memory Seats",
+      "Sunroof",
+      "Power Steering"
+    ],
+    "specifications": {
+      "engine": "1.1L 4-Cylinder",
+      "transmission": "Manual",
+      "fuelType": "Hybrid",
+      "mileage": "14 km/l",
+      "seatingCapacity": 7,
+      "color": "White"
+    },
+    "description": "A luxury pickup for family use.",
+    "inStock": true,
+    "rating": 3.5,
+    "tags": [
+      "sport"
+    ],
+    "reviews": [
+      {
+        "user": "User7",
+        "rating": 3,
+        "comment": "Great car!",
+        "date": "2024-06-24"
+      }
+    ],
+    "wishlistCount": 22,
+    "createdAt": "2024-05-23T10:00:00Z",
+    "updatedAt": "2024-06-19T12:00:00Z",
+    "dealer": {
+      "name": "Mombasa Autos",
+      "location": "Mombasa, Kenya",
+      "contact": "+254700000002"
+    }
+  },
+  {
+    "id": "car_041",
+    "brand": "Nissan",
+    "model": "3 Series",
+    "year": 2018,
+    "price": 6360131,
+    "category": "Van",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Nissan,3 Series,Van,41",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Nissan,3 Series,Van,41,1",
+      "https://source.unsplash.com/featured/600x400/?car,Nissan,3 Series,Van,41,2",
+      "https://source.unsplash.com/featured/600x400/?car,Nissan,3 Series,Van,41,3"
+    ],
+    "features": [
+      "Air Conditioning",
+      "ABS",
+      "4WD"
+    ],
+    "specifications": {
+      "engine": "4.3L V6",
+      "transmission": "Automatic",
+      "fuelType": "Diesel",
+      "mileage": "13 km/l",
+      "seatingCapacity": 2,
+      "color": "White"
+    },
+    "description": "A sport van for business use.",
+    "inStock": false,
+    "rating": 4,
+    "tags": [
+      "business",
+      "adventure"
+    ],
+    "reviews": [
+      {
+        "user": "User8",
+        "rating": 5,
+        "comment": "Great car!",
+        "date": "2024-06-21"
+      },
+      {
+        "user": "User20",
+        "rating": 4,
+        "comment": "Would buy again.",
+        "date": "2024-06-23"
+      },
+      {
+        "user": "User1",
+        "rating": 5,
+        "comment": "Very comfortable.",
+        "date": "2024-06-15"
+      },
+      {
+        "user": "User20",
+        "rating": 3,
+        "comment": "Very comfortable.",
+        "date": "2024-06-08"
+      }
+    ],
+    "wishlistCount": 17,
+    "createdAt": "2024-05-24T10:00:00Z",
+    "updatedAt": "2024-06-17T12:00:00Z",
+    "dealer": {
+      "name": "Nairobi Motors",
+      "location": "Nairobi, Kenya",
+      "contact": "+254700000001"
+    }
+  },
+  {
+    "id": "car_042",
+    "brand": "Mazda",
+    "model": "Sportage",
+    "year": 2019,
+    "price": 2025399,
+    "category": "Hatchback",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Mazda,Sportage,Hatchback,42",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Mazda,Sportage,Hatchback,42,1",
+      "https://source.unsplash.com/featured/600x400/?car,Mazda,Sportage,Hatchback,42,2",
+      "https://source.unsplash.com/featured/600x400/?car,Mazda,Sportage,Hatchback,42,3"
+    ],
+    "features": [
+      "Sunroof",
+      "Adaptive Cruise",
+      "AWD",
+      "Navigation",
+      "Bluetooth",
+      "ABS"
+    ],
+    "specifications": {
+      "engine": "3.9L V8",
+      "transmission": "Manual",
+      "fuelType": "Hybrid",
+      "mileage": "19 km/l",
+      "seatingCapacity": 3,
+      "color": "Red"
+    },
+    "description": "A adventure hatchback for adventure use.",
+    "inStock": true,
+    "rating": 4.6,
+    "tags": [
+      "off-road",
+      "luxury"
+    ],
+    "reviews": [
+      {
+        "user": "User4",
+        "rating": 5,
+        "comment": "Would buy again.",
+        "date": "2024-06-03"
+      }
+    ],
+    "wishlistCount": 2,
+    "createdAt": "2024-05-10T10:00:00Z",
+    "updatedAt": "2024-06-25T12:00:00Z",
+    "dealer": {
+      "name": "Kisumu Cars",
+      "location": "Kisumu, Kenya",
+      "contact": "+254700000003"
+    }
+  },
+  {
+    "id": "car_043",
+    "brand": "Toyota",
+    "model": "C-Class",
+    "year": 2022,
+    "price": 14566412,
+    "category": "Luxury",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Toyota,C-Class,Luxury,43",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Toyota,C-Class,Luxury,43,1",
+      "https://source.unsplash.com/featured/600x400/?car,Toyota,C-Class,Luxury,43,2",
+      "https://source.unsplash.com/featured/600x400/?car,Toyota,C-Class,Luxury,43,3"
+    ],
+    "features": [
+      "Lane Assist",
+      "Keyless Entry",
+      "Alloy Wheels"
+    ],
+    "specifications": {
+      "engine": "3.6L V6",
+      "transmission": "Automatic",
+      "fuelType": "Diesel",
+      "mileage": "18 km/l",
+      "seatingCapacity": 5,
+      "color": "Red"
+    },
+    "description": "A fuel-efficient luxury for city use.",
+    "inStock": true,
+    "rating": 3.8,
+    "tags": [
+      "sport",
+      "city"
+    ],
+    "reviews": [
+      {
+        "user": "User5",
+        "rating": 4,
+        "comment": "Great car!",
+        "date": "2024-06-14"
+      }
+    ],
+    "wishlistCount": 7,
+    "createdAt": "2024-05-01T10:00:00Z",
+    "updatedAt": "2024-06-20T12:00:00Z",
+    "dealer": {
+      "name": "Kisumu Cars",
+      "location": "Kisumu, Kenya",
+      "contact": "+254700000003"
+    }
+  },
+  {
+    "id": "car_044",
+    "brand": "Subaru",
+    "model": "Camry",
+    "year": 2018,
+    "price": 1367261,
+    "category": "SUV",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Subaru,Camry,SUV,44",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Subaru,Camry,SUV,44,1",
+      "https://source.unsplash.com/featured/600x400/?car,Subaru,Camry,SUV,44,2",
+      "https://source.unsplash.com/featured/600x400/?car,Subaru,Camry,SUV,44,3"
+    ],
+    "features": [
+      "Premium Audio",
+      "Power Steering",
+      "Fog Lights",
+      "AWD",
+      "4WD"
+    ],
+    "specifications": {
+      "engine": "2.7L V6",
+      "transmission": "Manual",
+      "fuelType": "Hybrid",
+      "mileage": "15 km/l",
+      "seatingCapacity": 3,
+      "color": "Silver"
+    },
+    "description": "A adventure suv for family use.",
+    "inStock": true,
+    "rating": 4.2,
+    "tags": [
+      "city",
+      "business"
+    ],
+    "reviews": [
+      {
+        "user": "User14",
+        "rating": 3,
+        "comment": "Would buy again.",
+        "date": "2024-06-02"
+      },
+      {
+        "user": "User7",
+        "rating": 3,
+        "comment": "Great car!",
+        "date": "2024-06-16"
+      }
+    ],
+    "wishlistCount": 0,
+    "createdAt": "2024-05-20T10:00:00Z",
+    "updatedAt": "2024-06-16T12:00:00Z",
+    "dealer": {
+      "name": "Mombasa Autos",
+      "location": "Mombasa, Kenya",
+      "contact": "+254700000002"
+    }
+  },
+  {
+    "id": "car_045",
+    "brand": "Nissan",
+    "model": "Golf",
+    "year": 2022,
+    "price": 1400964,
+    "category": "Sedan",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Nissan,Golf,Sedan,45",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Nissan,Golf,Sedan,45,1",
+      "https://source.unsplash.com/featured/600x400/?car,Nissan,Golf,Sedan,45,2",
+      "https://source.unsplash.com/featured/600x400/?car,Nissan,Golf,Sedan,45,3"
+    ],
+    "features": [
+      "AWD",
+      "Leather Seats",
+      "Keyless Entry"
+    ],
+    "specifications": {
+      "engine": "1.8L 4-Cylinder",
+      "transmission": "CVT",
+      "fuelType": "Diesel",
+      "mileage": "19 km/l",
+      "seatingCapacity": 2,
+      "color": "White"
+    },
+    "description": "A adventure sedan for family use.",
+    "inStock": true,
+    "rating": 3.8,
+    "tags": [
+      "luxury",
+      "city"
+    ],
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 3,
+        "comment": "Very comfortable.",
+        "date": "2024-06-14"
+      }
+    ],
+    "wishlistCount": 25,
+    "createdAt": "2024-05-10T10:00:00Z",
+    "updatedAt": "2024-06-12T12:00:00Z",
+    "dealer": {
+      "name": "Mombasa Autos",
+      "location": "Mombasa, Kenya",
+      "contact": "+254700000002"
+    }
+  },
+  {
+    "id": "car_046",
+    "brand": "Mazda",
+    "model": "Demio",
+    "year": 2022,
+    "price": 6137728,
+    "category": "Van",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Mazda,Demio,Van,46",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Mazda,Demio,Van,46,1",
+      "https://source.unsplash.com/featured/600x400/?car,Mazda,Demio,Van,46,2",
+      "https://source.unsplash.com/featured/600x400/?car,Mazda,Demio,Van,46,3"
+    ],
+    "features": [
+      "Power Steering",
+      "Air Conditioning",
+      "Keyless Entry",
+      "Leather Seats",
+      "Airbags"
+    ],
+    "specifications": {
+      "engine": "2.7L V8",
+      "transmission": "CVT",
+      "fuelType": "Diesel",
+      "mileage": "16 km/l",
+      "seatingCapacity": 5,
+      "color": "Red"
+    },
+    "description": "A city van for family use.",
+    "inStock": true,
+    "rating": 4.1,
+    "tags": [
+      "adventure",
+      "luxury"
+    ],
+    "reviews": [
+      {
+        "user": "User19",
+        "rating": 4,
+        "comment": "Very comfortable.",
+        "date": "2024-06-17"
+      },
+      {
+        "user": "User9",
+        "rating": 5,
+        "comment": "Would buy again.",
+        "date": "2024-06-10"
+      }
+    ],
+    "wishlistCount": 14,
+    "createdAt": "2024-05-04T10:00:00Z",
+    "updatedAt": "2024-06-23T12:00:00Z",
+    "dealer": {
+      "name": "Kisumu Cars",
+      "location": "Kisumu, Kenya",
+      "contact": "+254700000003"
+    }
+  },
+  {
+    "id": "car_047",
+    "brand": "Ford",
+    "model": "Ranger",
+    "year": 2019,
+    "price": 9229566,
+    "category": "Van",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Ford,Ranger,Van,47",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Ford,Ranger,Van,47,1",
+      "https://source.unsplash.com/featured/600x400/?car,Ford,Ranger,Van,47,2",
+      "https://source.unsplash.com/featured/600x400/?car,Ford,Ranger,Van,47,3"
+    ],
+    "features": [
+      "Sunroof",
+      "4WD",
+      "Premium Audio"
+    ],
+    "specifications": {
+      "engine": "3.0L V8",
+      "transmission": "CVT",
+      "fuelType": "Diesel",
+      "mileage": "16 km/l",
+      "seatingCapacity": 4,
+      "color": "Blue"
+    },
+    "description": "A sport van for city use.",
+    "inStock": true,
+    "rating": 4.3,
+    "tags": [
+      "family",
+      "city"
+    ],
+    "reviews": [
+      {
+        "user": "User7",
+        "rating": 5,
+        "comment": "Handles well.",
+        "date": "2024-06-20"
+      }
+    ],
+    "wishlistCount": 9,
+    "createdAt": "2024-05-09T10:00:00Z",
+    "updatedAt": "2024-06-03T12:00:00Z",
+    "dealer": {
+      "name": "Kisumu Cars",
+      "location": "Kisumu, Kenya",
+      "contact": "+254700000003"
+    }
+  },
+  {
+    "id": "car_048",
+    "brand": "Ford",
+    "model": "Golf",
+    "year": 2018,
+    "price": 14263684,
+    "category": "Coupe",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Ford,Golf,Coupe,48",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Ford,Golf,Coupe,48,1",
+      "https://source.unsplash.com/featured/600x400/?car,Ford,Golf,Coupe,48,2",
+      "https://source.unsplash.com/featured/600x400/?car,Ford,Golf,Coupe,48,3"
+    ],
+    "features": [
+      "Ambient Lighting",
+      "Sunroof",
+      "Heated Seats"
+    ],
+    "specifications": {
+      "engine": "2.8L V8",
+      "transmission": "Automatic",
+      "fuelType": "Diesel",
+      "mileage": "16 km/l",
+      "seatingCapacity": 5,
+      "color": "Black"
+    },
+    "description": "A luxury coupe for business use.",
+    "inStock": true,
+    "rating": 4.2,
+    "tags": [
+      "business",
+      "family"
+    ],
+    "reviews": [
+      {
+        "user": "User10",
+        "rating": 5,
+        "comment": "Very comfortable.",
+        "date": "2024-06-08"
+      },
+      {
+        "user": "User1",
+        "rating": 5,
+        "comment": "Very comfortable.",
+        "date": "2024-06-24"
+      }
+    ],
+    "wishlistCount": 2,
+    "createdAt": "2024-05-01T10:00:00Z",
+    "updatedAt": "2024-06-14T12:00:00Z",
+    "dealer": {
+      "name": "Nairobi Motors",
+      "location": "Nairobi, Kenya",
+      "contact": "+254700000001"
+    }
+  },
+  {
+    "id": "car_049",
+    "brand": "Kia",
+    "model": "Forester",
+    "year": 2019,
+    "price": 10690583,
+    "category": "Sedan",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Kia,Forester,Sedan,49",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Kia,Forester,Sedan,49,1",
+      "https://source.unsplash.com/featured/600x400/?car,Kia,Forester,Sedan,49,2",
+      "https://source.unsplash.com/featured/600x400/?car,Kia,Forester,Sedan,49,3"
+    ],
+    "features": [
+      "Bluetooth",
+      "Power Steering",
+      "Leather Seats",
+      "Ambient Lighting"
+    ],
+    "specifications": {
+      "engine": "4.7L 4-Cylinder",
+      "transmission": "CVT",
+      "fuelType": "Hybrid",
+      "mileage": "20 km/l",
+      "seatingCapacity": 4,
+      "color": "White"
+    },
+    "description": "A family sedan for business use.",
+    "inStock": true,
+    "rating": 4.1,
+    "tags": [
+      "fuel-efficient",
+      "city"
+    ],
+    "reviews": [
+      {
+        "user": "User14",
+        "rating": 4,
+        "comment": "Great car!",
+        "date": "2024-06-01"
+      },
+      {
+        "user": "User5",
+        "rating": 5,
+        "comment": "Would buy again.",
+        "date": "2024-06-06"
+      }
+    ],
+    "wishlistCount": 18,
+    "createdAt": "2024-05-12T10:00:00Z",
+    "updatedAt": "2024-06-27T12:00:00Z",
+    "dealer": {
+      "name": "Nairobi Motors",
+      "location": "Nairobi, Kenya",
+      "contact": "+254700000001"
+    }
+  },
+  {
+    "id": "car_050",
+    "brand": "Mercedes",
+    "model": "Camry",
+    "year": 2023,
+    "price": 6794647,
+    "category": "Luxury",
+    "thumbnail": "https://source.unsplash.com/featured/400x300/?car,Mercedes,Camry,Luxury,50",
+    "images": [
+      "https://source.unsplash.com/featured/600x400/?car,Mercedes,Camry,Luxury,50,1",
+      "https://source.unsplash.com/featured/600x400/?car,Mercedes,Camry,Luxury,50,2",
+      "https://source.unsplash.com/featured/600x400/?car,Mercedes,Camry,Luxury,50,3"
+    ],
+    "features": [
+      "ABS",
+      "Memory Seats",
+      "Adaptive Cruise",
+      "Keyless Entry",
+      "Adaptive Cruise"
+    ],
+    "specifications": {
+      "engine": "3.9L 4-Cylinder",
+      "transmission": "Manual",
+      "fuelType": "Diesel",
+      "mileage": "16 km/l",
+      "seatingCapacity": 7,
+      "color": "Black"
+    },
+    "description": "A sport luxury for business use.",
+    "inStock": false,
+    "rating": 4.3,
+    "tags": [
+      "sport",
+      "adventure"
+    ],
+    "reviews": [
+      {
+        "user": "User19",
+        "rating": 5,
+        "comment": "Very comfortable.",
+        "date": "2024-06-17"
+      },
+      {
+        "user": "User8",
+        "rating": 5,
+        "comment": "Good value.",
+        "date": "2024-06-16"
+      },
+      {
+        "user": "User8",
+        "rating": 4,
+        "comment": "Very comfortable.",
+        "date": "2024-06-06"
+      },
+      {
+        "user": "User14",
+        "rating": 4,
+        "comment": "Handles well.",
+        "date": "2024-06-01"
+      }
+    ],
+    "wishlistCount": 4,
+    "createdAt": "2024-05-21T10:00:00Z",
+    "updatedAt": "2024-06-02T12:00:00Z",
+    "dealer": {
+      "name": "Nairobi Motors",
+      "location": "Nairobi, Kenya",
+      "contact": "+254700000001"
+    }
+  }
+]
